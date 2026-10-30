@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-04-27T10:28:51.029Z",
+  "entries": [
+    "007",
+    "audit-skills",
+    "cred-omega",
+    "docs",
+    "openclaw-github-repo-commander",
+    "security/aws-compliance-checker",
+    "security/aws-iam-best-practices",
+    "security/aws-secrets-rotation",
+    "security/aws-security-audit",
+    "skill-sentinel",
+    "ui-a11y",
+    "ux-audit"
+  ]
+}
